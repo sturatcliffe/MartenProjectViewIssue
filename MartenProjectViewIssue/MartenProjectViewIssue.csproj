@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="FluentAssertions" Version="5.7.0" />
+    <PackageReference Include="Marten" Version="3.6.0" />
+  </ItemGroup>
+
 </Project>
